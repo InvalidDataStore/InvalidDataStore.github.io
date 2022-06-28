@@ -11,3 +11,9 @@ function txtFunction(whichtxt, newtxt){
         console.log("there is only 1-5 text in this file, txt6 doesnt exist")
     }
 }
+
+console.log("type 'Cmds()' to check the current console commands! -InvalidData");
+
+function Cmds(){
+    console.log("current commands:\n\ntxtFunction(whichtxt, newtxt)  -this command changes the text in the screen, it works like this: txtFunction(2, txthere) dont forget the parentheses. its like you were typing something to log in the console. console.log(-parenthese-txt-parenthese-).  the number is the order of the texts you see on the screen")
+}
