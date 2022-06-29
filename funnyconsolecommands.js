@@ -17,8 +17,3 @@ console.log("type 'Cmds()' to check the current console commands! ");
 function Cmds(){
     console.log("current commands:\n\ntxtFunction(whichtxt, newtxt)  -this command changes the text in the screen, it works like this: txtFunction(2, txthere) dont forget the parentheses. its like you were typing something to log in the console. console.log(-parenthese-txt-parenthese-).  the number is the order of the texts you see on the screen")
 }
-
-function onpressFunction(){
-    var audio = new Audio('Vine-boom-sound-effect.mp3');
-    audio.play();
-}
