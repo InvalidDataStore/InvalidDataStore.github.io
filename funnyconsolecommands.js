@@ -19,10 +19,10 @@ function Cmds(){
 }
 
 function earbroken(strong){
-    let newtaco = 0;
+    let taco = 0;
     while (taco < strong) {
         onpressFunction()
         taco +=1
     }
-    newtaco = 0;
+    taco = 0;
 }
